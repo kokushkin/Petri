@@ -1,0 +1,8 @@
+F:\MYREPOSITORY\Petri\PetriSolution\SimplePetriConsoleApp\bin\Debug\SimplePetriConsoleApp.exe.config
+F:\MYREPOSITORY\Petri\PetriSolution\SimplePetriConsoleApp\bin\Debug\SimplePetriConsoleApp.exe
+F:\MYREPOSITORY\Petri\PetriSolution\SimplePetriConsoleApp\bin\Debug\SimplePetriConsoleApp.pdb
+F:\MYREPOSITORY\Petri\PetriSolution\SimplePetriConsoleApp\bin\Debug\PetriLib.dll
+F:\MYREPOSITORY\Petri\PetriSolution\SimplePetriConsoleApp\bin\Debug\PetriLib.pdb
+F:\MYREPOSITORY\Petri\PetriSolution\SimplePetriConsoleApp\obj\Debug\SimplePetriConsoleApp.csprojResolveAssemblyReference.cache
+F:\MYREPOSITORY\Petri\PetriSolution\SimplePetriConsoleApp\obj\Debug\SimplePetriConsoleApp.exe
+F:\MYREPOSITORY\Petri\PetriSolution\SimplePetriConsoleApp\obj\Debug\SimplePetriConsoleApp.pdb
