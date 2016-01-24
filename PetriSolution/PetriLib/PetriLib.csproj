@@ -40,12 +40,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GeneralTransition.cs" />
-    <Compile Include="Log.cs" />
     <Compile Include="PetriClases.cs" />
     <Compile Include="PetriController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Timer.cs" />
     <Compile Include="Transition.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\parsersrc\Log\Log\Log.csproj">
+      <Project>{7db4aefc-3601-4ef9-a9d0-36835640d0b8}</Project>
+      <Name>Log</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

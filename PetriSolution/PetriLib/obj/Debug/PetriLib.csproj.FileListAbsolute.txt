@@ -3,3 +3,9 @@ F:\MYREPOSITORY\Petri\PetriSolution\PetriLib\bin\Debug\PetriLib.pdb
 F:\MYREPOSITORY\Petri\PetriSolution\PetriLib\obj\Debug\PetriLib.dll
 F:\MYREPOSITORY\Petri\PetriSolution\PetriLib\obj\Debug\PetriLib.pdb
 F:\MYREPOSITORY\Petri\PetriSolution\PetriLib\obj\Debug\PetriLib.csprojResolveAssemblyReference.cache
+D:\REPOSITORY\services\Petri\PetriSolution\PetriLib\bin\Debug\PetriLib.dll
+D:\REPOSITORY\services\Petri\PetriSolution\PetriLib\bin\Debug\PetriLib.pdb
+D:\REPOSITORY\services\Petri\PetriSolution\PetriLib\obj\Debug\PetriLib.dll
+D:\REPOSITORY\services\Petri\PetriSolution\PetriLib\obj\Debug\PetriLib.pdb
+D:\REPOSITORY\services\Petri\PetriSolution\PetriLib\bin\Debug\Log.dll
+D:\REPOSITORY\services\Petri\PetriSolution\PetriLib\bin\Debug\Log.pdb
